@@ -22,28 +22,57 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: PhD Candidate
+    company: Macquarie University
+    company_url: 'https://researchers.mq.edu.au/en/persons/mic-moshel'
     company_logo: org-gc
-    location: California
+    location: Sydney
+    date_start: '2021-08-01'
+    date_end: ''
+    description: |2-
+        Researching the neuropsychological implications of disordered and problematic screen usage. 
+        Examining the cognitive profiles of teenagers with screen addiction and determining changes across a     novel and empirical treatment program. 
+      
+
+  - title: Provisional Psychlogist
+    company: Macquarie University
+    company_url: ''
+    company_logo: org-x
+    location: Sydney| Melbourne
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    Clinical neuropsychologist intern at various placement settings including: 
+    * arbias
+    * Mind Plasticity
+    * National Centre for Veterans' Healthcare | Concord Hospital
+    * Macquarie University Psychology Clinic
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Sessional Teaching Academic
+    company: Macquarie University| Melbourne University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Sydney| Melbourne
+    date_start: '2021-02-01'
+    date_end: ''
+    description: |2-
+    Units taught: 
+    * PSYC10003 - Mind, Brain & Behaviour 1
+    * PSYU1101 – Introduction to Psychology I
+    * PSYU1102 – Introduction to Psychology II
+    * PSYU2236 - Biopsychology and Learning
+    * PSYU3336 - Personality and its Disorders
+    * COGS1000 - Introduction to Neuroscience 1
+    
+  - title: Forensic Neuropsychological Test Administrator
+    company: Dr Susan Pulman & Associates
+    company_url: ''
+    company_logo: org-x
+    location: Sydney
+    date_start: '2020-08-01'
+    date_end: '2022-07-01'
+    description: Administered neuropsychological assessments in prison and forensic settings for clients to test for fitness to stand trial, substantial impairment, malingering, and conduct capacity assessments or risk assessments.
+ 
 
 design:
   columns: '2'

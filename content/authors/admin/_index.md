@@ -67,7 +67,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD Clinical Neuropsychology Candidate and Psychologist at Macquarie University. My research includes examining the neuropsychological implications of disordered and problematic screen usage, with a specific focus on gaming behaviours. My research also aims to develop effective strategies for mitigating the negative effects of disordered screen use on the brain, including innovative approaches to prevention and intervention.
+Hello! I am a PhD Clinical Neuropsychology Candidate and Psychologist at Macquarie University. My research includes examining the neuropsychological implications of disordered and problematic screen usage, with a specific focus on gaming behaviours. My research also aims to develop effective strategies for mitigating the negative effects of disordered screen use on the brain, including innovative approaches to prevention and intervention.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
