@@ -43,18 +43,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=JSE6pAkAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Michoel-Git
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mic-moshel-0692a7264?originalSubdomain=au
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,7 +67,7 @@ email: ''
 highlight_name: true
 ---
 
-Michoel Moshel is a PhD Clinical Neuropsychology Candidate and Psychologist at Macquarie University. My research includes examining the neuropsychological implications of disordered and problematic screen usage, with a specific focus on gaming behaviours. My research also aims to develop effective strategies for mitigating the negative effects of disordered screen use on the brain, including innovative approaches to prevention and intervention.
+I am a PhD Clinical Neuropsychology Candidate and Psychologist at Macquarie University. My research includes examining the neuropsychological implications of disordered and problematic screen usage, with a specific focus on gaming behaviours. My research also aims to develop effective strategies for mitigating the negative effects of disordered screen use on the brain, including innovative approaches to prevention and intervention.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
